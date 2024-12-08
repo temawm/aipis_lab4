@@ -1,4 +1,5 @@
 #include <iostream>
+//error_checker
 //start
 int main() {
     std::string name;
